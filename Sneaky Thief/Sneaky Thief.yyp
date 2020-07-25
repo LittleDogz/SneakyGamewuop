@@ -42,7 +42,7 @@
             "Key": "13a00d42-fb4f-4763-8411-5a8510efc08c",
             "Value": {
                 "id": "7e3c4981-6661-4bb4-a374-a75292689c07",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Map\\Map.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "0d893a12-bf79-4d32-9370-ee4be5e333e0",
                 "resourcePath": "views\\4da85b7a-b419-4533-9a71-f5a486adb85d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b613522-3ec5-4d3b-8fbb-c9dde5e8a05a",
+            "Value": {
+                "id": "20a7a628-98b0-4b5e-b249-c7753219aa34",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
