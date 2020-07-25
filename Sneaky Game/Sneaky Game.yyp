@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "2700ad6e-8a76-4f1c-9bdb-46321549253f",
+            "Value": {
+                "id": "6f7b5508-4a6f-43dd-a978-c29c4d9cb481",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2828d3f2-edf7-4a17-8cb8-fd0db5f933b1",
+            "Value": {
+                "id": "7b8ff844-4dd7-4ab4-9eb0-2415c12a7dab",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bc48a9c-1692-4527-ad0a-81c082ded783",
             "Value": {
                 "id": "0e049180-c982-489a-8e85-1435669ff810",
