@@ -7,6 +7,7 @@ Pickup_key = keyboard_check(ord("F"));
 interact_key = keyboard_check(ord("E"));
 inv_key = keyboard_check(ord("I"));
 
+
 //perfekt movement
 hspd = right_key - left_key
 vspd = down_key - up_key
@@ -16,9 +17,10 @@ y += vspd * spd;
 
 
 //diagonal Movement
-
 if (vspd != 0) and (hspd !=0){
 	spd = dagspd;
 } else {
 	spd = walkspd;
 }
+
+//sneak
