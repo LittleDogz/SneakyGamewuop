@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1a2e7784-f6f4-473a-a162-e79723de6155",
+            "Value": {
+                "id": "01cbcc66-f269-420b-9bb5-5bf7c997d145",
+                "resourcePath": "sprites\\Spr_tileset\\Spr_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1cfa76b3-e18c-4a52-a0d0-15252a709735",
             "Value": {
                 "id": "f96953d4-0bed-46e8-a671-5825073ef0d2",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "79bff8ab-fc84-40e8-8084-0adaeb213b94",
+            "Value": {
+                "id": "a7c3b856-a109-4e8f-9a4c-1413201aea50",
+                "resourcePath": "tilesets\\tileset_outdoor_environments\\tileset_outdoor_environments.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "7e02338f-f5c7-4f38-b669-3f45ed1b3a46",
             "Value": {
                 "id": "af7bb55b-3b2c-46fb-8162-695818bc94da",
@@ -172,6 +188,14 @@
                 "id": "c513d8ab-c6b2-49ae-ac2b-2ce79069e4eb",
                 "resourcePath": "views\\90a6e7a7-869c-473d-9b00-7ca8d732b2b3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2a190c2-4688-4556-ab17-6bf3ecb86eb7",
+            "Value": {
+                "id": "205bf111-6d59-46b3-8f0c-f96a2af21df3",
+                "resourcePath": "rooms\\openworld\\openworld.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

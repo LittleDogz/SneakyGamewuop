@@ -15,3 +15,9 @@ if keyboard_check_pressed(vk_f4)
       window_set_fullscreen(true);
       }
    }
+   
+//room goto map
+if keyboard_check_pressed(vk_f3)
+   {
+	room_goto(openworld)
+   }
