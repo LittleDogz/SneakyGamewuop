@@ -221,6 +221,14 @@
                 "resourcePath": "views\\f4eb0a13-f3aa-4dd5-855a-da46346fac61.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fc62bd57-d777-499c-8106-a35e9dc12e9f",
+            "Value": {
+                "id": "3fd6c382-206a-4049-baed-a77ecd1293f6",
+                "resourcePath": "sprites\\spr_debugfloor\\spr_debugfloor.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
