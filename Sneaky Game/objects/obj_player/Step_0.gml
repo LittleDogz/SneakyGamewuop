@@ -1,4 +1,5 @@
 //movement til player(step)
+//movement til player(step)
 up_key = keyboard_check(vk_up); 
 left_key = keyboard_check(vk_left); 
 right_key = keyboard_check(vk_right); 
