@@ -30,5 +30,24 @@ vspd = down_key - up_key
 y += vspd * spd;
 x += hspd * spd;
 
+//animation
+
+if(down_key == true){
+sprite_index = spr_playerdown		
+} 
+
+if(up_key == true){
+sprite_index = spr_playerup
+}	
+
+
+
+
+
+
+	
+	
+
+
 
 
