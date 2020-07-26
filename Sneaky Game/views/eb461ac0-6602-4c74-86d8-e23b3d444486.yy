@@ -5,7 +5,8 @@
     "name": "eb461ac0-6602-4c74-86d8-e23b3d444486",
     "children": [
         "f2826d90-5b2b-43a9-ae57-b560599b79ea",
-        "54f979aa-b086-44a8-b82e-1102a9c13a80"
+        "54f979aa-b086-44a8-b82e-1102a9c13a80",
+        "086f4576-5de8-4c86-a93e-417427fce8d5"
     ],
     "filterType": "GMObject",
     "folderName": "mechanics",
