@@ -1,5 +1,5 @@
-state = 1;
-sightdist = 200;
+state = 0;
+sightdist = 90;
 seenx = x;
 seeny = y;
 wanderx = x;
