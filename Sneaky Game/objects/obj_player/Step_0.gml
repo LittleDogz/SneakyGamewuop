@@ -1,4 +1,4 @@
-//movement til player(step)
+
 //movement til player(step)
 up_key = keyboard_check(vk_up); 
 left_key = keyboard_check(vk_left); 
@@ -32,12 +32,11 @@ y += vspd * spd;
 x += hspd * spd;
 
 
-//collision 
+//collision
+
+
 if(place_meeting(x,y+1,obj_col)){
-	hspd = 0
-	vspd = 0
-	dagspd = 0
-	sneakspd = 0 
+	  
 }
 
 
@@ -65,6 +64,11 @@ if(keyboard_check(allmov)){
 }
 
 
+	
+
+	
+
+	
 
 	
 

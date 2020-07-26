@@ -6,4 +6,3 @@ dagspd = 2
 sneakspd = 1.5;
 
 
-
