@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "101b47d2-edef-49c7-bafa-a629c032d406",
+            "Value": {
+                "id": "d85650ec-4631-49ca-9ff3-e4e45bf8ed92",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "1a2e7784-f6f4-473a-a162-e79723de6155",
             "Value": {
                 "id": "01cbcc66-f269-420b-9bb5-5bf7c997d145",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "522c6072-de89-467c-aac1-3517734e8a48",
+            "Value": {
+                "id": "4a9431d7-67ea-4a6f-bd23-5e4c2114c94d",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54f979aa-b086-44a8-b82e-1102a9c13a80",
             "Value": {
                 "id": "c521bada-b15b-418b-aa70-eef05b462bbc",
@@ -156,6 +172,14 @@
                 "id": "3ea3e670-cc62-48e1-8677-e9e368858bd6",
                 "resourcePath": "views\\583fc625-b028-4b79-858d-069efffe9060.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5db3f0a0-2c04-4cd2-85ef-3e8e68213df9",
+            "Value": {
+                "id": "e5461e2f-470d-45be-b416-20c2b1f88d09",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -260,6 +284,22 @@
                 "id": "adf1b1fd-ef3b-4978-b615-3db25f403be3",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab6f9af1-7810-43de-9b8b-717eb092ee38",
+            "Value": {
+                "id": "35ec21c2-1013-4b4d-84f0-b1e4b437b86c",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "acc217d0-e620-4568-bfca-87f403f26138",
+            "Value": {
+                "id": "deb4ccfd-8083-4e03-8de1-110e0f21b63c",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

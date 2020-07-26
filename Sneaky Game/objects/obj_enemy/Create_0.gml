@@ -1,8 +1,9 @@
 state = 1;
-sightdist = 120;
+sightdist = 200;
 seenx = x;
 seeny = y;
 wanderx = x;
 wandery = y;
-cone = 60;
-facing = 0;
+cone = 30;
+facing = 0; 
+path_start(path0, 2, path_action_reverse, true);
