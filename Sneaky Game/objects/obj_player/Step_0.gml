@@ -30,8 +30,17 @@ vspd = down_key - up_key
 y += vspd * spd;
 x += hspd * spd;
 
-//animation
 
+//collision 
+if(place_meeting(x,y+1,obj_col)){
+	hspd = 0
+	vspd = 0
+	dagspd = 0
+	sneakspd = 0 
+}
+
+
+//animation
 if(down_key == true){
 sprite_index = spr_playerdown		
 } 
@@ -40,6 +49,23 @@ if(up_key == true){
 sprite_index = spr_playerup
 }	
 
+if(right_key == true){
+	sprite_index = spr_playerright	
+}
+
+if(left_key == true){
+	sprite_index = spr_playerleft
+}
+
+var allmov = left_key and up_key and right_key and down_key
+
+if(keyboard_check(allmov)){
+	sprite_index = spr_player	
+}
+
+
+
+	
 
 
 
