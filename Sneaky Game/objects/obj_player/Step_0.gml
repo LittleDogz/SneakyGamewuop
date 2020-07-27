@@ -28,9 +28,11 @@ else {
 
 if (keyboard_check(vk_lshift)){
 	spd = sneakspd;
+	global.sneakmode = true;
 	image_speed = 0.5
 } else {
 	spd = walkspd;
+	global.sneakmode = false;
 	image_speed = 1
 }
 
