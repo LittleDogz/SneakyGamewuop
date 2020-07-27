@@ -1,19 +1,29 @@
 
 //movement til player(step)
 up_key = keyboard_check(vk_up){ 
-if(place_meeting(x,y+1,obj_col)){
+if(place_meeting(x,y+1,spr_col)){
 	y=y-3;	
 	}
 }
 left_key = keyboard_check(vk_left){ 
-if(place_meeting(x+3,y,obj_col)){
+if(place_meeting(x+3,y,spr_col)){
 	x=x-3;
 	}
 }
-right_key = keyboard_check(vk_right); 
-down_key = keyboard_check(vk_down);
+right_key = keyboard_check(vk_right){
+	if(place_meeting(x-3,y,spr_col)){
+	x=x+3;				
+	}
+}	
+down_key = keyboard_check(vk_down){
+	if(place_meeting(x,y-1,spr_col)){
+	y=y+3;
+	}
+}
+
+
 global.interact_key = keyboard_check(ord("E"));
-inv_key = keyboard_check(ord("I"));
+global.inv_key = keyboard_check(ord("I"));
 
 
 //diagonal Movement
