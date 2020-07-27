@@ -35,8 +35,8 @@ x += hspd * spd;
 //collision
 
 
-if(place_meeting(x,y+1,obj_col)){
-	  
+if(place_meeting(x,y,obj_col)){
+	  spd = 0;
 }
 
 

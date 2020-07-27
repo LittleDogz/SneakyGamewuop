@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1d20536c-a6ea-4488-8565-b5c5fc34a5c2",
+            "Value": {
+                "id": "9570ef9e-d83f-4b8f-9014-41fe08480c63",
+                "resourcePath": "sprites\\spr_pcscreen\\spr_pcscreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "202a99b4-3d7d-4432-b70e-33d98cdb44ff",
             "Value": {
                 "id": "32f1dbd0-448f-4a28-8af4-704fc00ff82b",
@@ -116,6 +124,14 @@
                 "id": "0e049180-c982-489a-8e85-1435669ff810",
                 "resourcePath": "views\\2bc48a9c-1692-4527-ad0a-81c082ded783.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2fc7006f-71da-4880-abb0-9ae6e5f820c7",
+            "Value": {
+                "id": "504fa9ab-c5e8-465f-ac07-e5b14912af15",
+                "resourcePath": "sprites\\spr_playerright\\spr_playerright.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "7070156b-f8f5-42a3-be5a-94592fac09d5",
+            "Value": {
+                "id": "064da79c-76a1-40d7-9b5c-95aca1bdd23f",
+                "resourcePath": "objects\\obj_enemyBackup\\obj_enemyBackup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "73d73e1a-e5f9-4277-901a-bbad5f1f364e",
             "Value": {
                 "id": "2df6286e-e6d6-4999-a635-3a95cd018c10",
@@ -220,14 +244,6 @@
                 "id": "af7bb55b-3b2c-46fb-8162-695818bc94da",
                 "resourcePath": "views\\7e02338f-f5c7-4f38-b669-3f45ed1b3a46.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "81c93e30-3131-47e9-a99f-d5cceaffe474",
-            "Value": {
-                "id": "1b915154-64f9-4a39-a611-bfbd8ccad68c",
-                "resourcePath": "sprites\\spr_playerright\\spr_playerright.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,6 +340,14 @@
                 "id": "4192ebd0-d48a-4bac-8e51-c324c212004c",
                 "resourcePath": "sprites\\spr_playerdown\\spr_playerdown.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c1166bdc-b47b-40f6-b494-dfd5d37f7a28",
+            "Value": {
+                "id": "4906b622-cfc3-441b-859d-498672a9ea95",
+                "resourcePath": "objects\\obj_pcscreen\\obj_pcscreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {

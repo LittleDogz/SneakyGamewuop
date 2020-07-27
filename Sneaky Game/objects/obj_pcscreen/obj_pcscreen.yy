@@ -1,8 +1,8 @@
 {
-    "id": "5db3f0a0-2c04-4cd2-85ef-3e8e68213df9",
+    "id": "c1166bdc-b47b-40f6-b494-dfd5d37f7a28",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wall",
+    "name": "obj_pcscreen",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "522c6072-de89-467c-aac1-3517734e8a48",
+    "solid": false,
+    "spriteId": "1d20536c-a6ea-4488-8565-b5c5fc34a5c2",
     "visible": true
 }
