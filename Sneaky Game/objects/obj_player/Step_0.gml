@@ -1,7 +1,15 @@
 
 //movement til player(step)
-up_key = keyboard_check(vk_up); 
-left_key = keyboard_check(vk_left); 
+up_key = keyboard_check(vk_up){ 
+if(place_meeting(x,y+1,obj_col)){
+	y=y-3;	
+	}
+}
+left_key = keyboard_check(vk_left){ 
+if(place_meeting(x+3,y,obj_col)){
+	x=x-3;
+	}
+}
 right_key = keyboard_check(vk_right); 
 down_key = keyboard_check(vk_down);
 global.interact_key = keyboard_check(ord("E"));
@@ -33,12 +41,10 @@ y += vspd * spd;
 x += hspd * spd;
 
 
-//collision
 
 
-if(place_meeting(x,y,obj_col)){
-	  spd = 0;
-}
+
+
 
 
 //animation
