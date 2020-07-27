@@ -4,8 +4,7 @@ up_key = keyboard_check(vk_up);
 left_key = keyboard_check(vk_left); 
 right_key = keyboard_check(vk_right); 
 down_key = keyboard_check(vk_down);
-global.Pickup_key = keyboard_check(ord("F"));
-interact_key = keyboard_check(ord("E"));
+global.interact_key = keyboard_check(ord("E"));
 inv_key = keyboard_check(ord("I"));
 
 
