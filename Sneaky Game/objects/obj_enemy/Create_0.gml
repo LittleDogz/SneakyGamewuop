@@ -1,5 +1,8 @@
 start_x = x;
 start_y = y;
+sightdist = 0;
+wanderx = 0;
+wandery = 0;
 cone = 80;
 facing =  0;
 
