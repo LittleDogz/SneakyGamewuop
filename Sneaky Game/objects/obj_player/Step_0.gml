@@ -20,8 +20,10 @@ else {
 
 if (keyboard_check(vk_lshift)){
 	spd = sneakspd;
+	image_speed = 0.5
 } else {
 	spd = walkspd;
+	image_speed = 1
 }
 
 //perfekt movement
