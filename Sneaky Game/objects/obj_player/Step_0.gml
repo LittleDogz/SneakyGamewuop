@@ -1,11 +1,29 @@
 
 //movement til player(step)
-up_key = keyboard_check(vk_up); 
-left_key = keyboard_check(vk_left); 
-right_key = keyboard_check(vk_right); 
-down_key = keyboard_check(vk_down);
+up_key = keyboard_check(vk_up){ 
+if(place_meeting(x,y+1,spr_col)){
+	y=y-3;	
+	}
+}
+left_key = keyboard_check(vk_left){ 
+if(place_meeting(x+3,y,spr_col)){
+	x=x-3;
+	}
+}
+right_key = keyboard_check(vk_right){
+	if(place_meeting(x-3,y,spr_col)){
+	x=x+3;				
+	}
+}	
+down_key = keyboard_check(vk_down){
+	if(place_meeting(x,y-1,spr_col)){
+	y=y+3;
+	}
+}
+
+
 global.interact_key = keyboard_check(ord("E"));
-inv_key = keyboard_check(ord("I"));
+global.inv_key = keyboard_check(ord("I"));
 
 
 //diagonal Movement
@@ -35,12 +53,10 @@ y += vspd * spd;
 x += hspd * spd;
 
 
-//collision
 
 
-if(place_meeting(x,y,obj_col)){
-	  spd = 0;
-}
+
+
 
 
 //animation
