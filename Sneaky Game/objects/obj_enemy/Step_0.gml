@@ -2,8 +2,13 @@ player_x = obj_player.x;
 player_y = obj_player.y;
 
 
-if (point_direction(x,y, player_x, player_y) < 200) and abs(angle_difference(facing,point_direction(x,y,obj_player.x,obj_player.y))) < cone
+facing = point_direction(x,y,wanderx,wandery);
+
+if (point_direction(x,y, player_x, player_y) < 200)
+and (angle_difference(facing,point_direction(x,y,obj_player.x,obj_player.y))) < cone
 and !collision_line(x,y,obj_player.x,obj_player.y,obj_wall,1,1)
+
+
 {
 
 	path_end();
