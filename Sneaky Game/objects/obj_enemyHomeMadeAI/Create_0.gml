@@ -4,11 +4,8 @@ seenx = x;
 seeny = y;
 wanderx = x; 
 wandery = y;
-neiwseenx = x;
-neiwseeny = y;
-cone = 90;
+cone = 360;
 enemy_direction = 0;
-playerdir = 200;
-neiw = 100;
+playerdir = 150;
 
-//path_start(path2,1,path_action_restart,true)
+path_start(path0,1,path_action_restart,true)
