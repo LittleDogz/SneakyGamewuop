@@ -1,0 +1,1 @@
+itemselected = clamp(--itemselected, 0, ds_grid_height(myitems) - 1);

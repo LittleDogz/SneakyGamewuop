@@ -1,4 +1,4 @@
-textborder = 18;
+textborder = 12;
 myitems = playerinventory;
 mycolor = c_black;
 isempty = false;
@@ -17,3 +17,7 @@ if(ds_grid_get(myitems, 0, 0) == 0) {
 	inventoryendat = 0;
 	isempty = true;
 }
+
+
+image_xscale = 1.3;
+image_yscale = 1.3;
