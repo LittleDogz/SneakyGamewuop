@@ -102,7 +102,7 @@
     "layers": [
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Tiles_1",
+            "name": "tag",
             "id": "54a98fa1-9d87-40ef-bcbc-c84a53642c50",
             "depth": 0,
             "grid_x": 32,

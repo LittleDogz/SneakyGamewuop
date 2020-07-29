@@ -1,6 +1,6 @@
 //movement til player(step)
 up_key = keyboard_check(vk_up){ 
-if(place_meeting(x,y+1,obj_wall)){
+if(place_meeting(x,y+3,obj_wall)){
 	y=y-3;	
 	}
 }
@@ -18,7 +18,7 @@ right_key = keyboard_check(vk_right){
 }
 	
 down_key = keyboard_check(vk_down){
-	if(place_meeting(x,y-1,obj_wall)){
+	if(place_meeting(x,y-3,obj_wall)){
 	y=y+3;
 	}
 }
@@ -85,3 +85,5 @@ if(keyboard_check(allmov)){
 }
 
 
+//hustag disspear when enter
+Rooflayergogoaway();
