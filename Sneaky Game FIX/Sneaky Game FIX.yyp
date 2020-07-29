@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "cc36cb23-5e72-458f-ba14-6def36e01fa9",
+            "Value": {
+                "id": "ba9940a5-2aee-4e2f-8bf1-dca17b3cebff",
+                "resourcePath": "datafiles_yy\\openworld.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "38f47b35-9b3c-4c7d-92c4-5ecb27f4e107",

@@ -1,11 +1,11 @@
 state = 0;       
-sightdist = 200; 
+sightdist = 100; 
 seenx = x;     
 seeny = y;
 wanderx = x;     
 wandery = y;
-start_x = x; 
-start_y = y;
-cone = 30;       
-facing = 0;   
+cone = 259;     
+facing = 0;    
+global.pathblocker = true
 
+path_start(House1Path,1,path_action_restart,true);

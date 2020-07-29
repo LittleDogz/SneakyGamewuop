@@ -255,14 +255,6 @@
             }
         },
         {
-            "Key": "7070156b-f8f5-42a3-be5a-94592fac09d5",
-            "Value": {
-                "id": "064da79c-76a1-40d7-9b5c-95aca1bdd23f",
-                "resourcePath": "objects\\obj_enemyBackup\\obj_enemyBackup.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "73d73e1a-e5f9-4277-901a-bbad5f1f364e",
             "Value": {
                 "id": "2df6286e-e6d6-4999-a635-3a95cd018c10",
@@ -396,14 +388,6 @@
                 "id": "adf1b1fd-ef3b-4978-b615-3db25f403be3",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "ab6f9af1-7810-43de-9b8b-717eb092ee38",
-            "Value": {
-                "id": "35ec21c2-1013-4b4d-84f0-b1e4b437b86c",
-                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
-                "resourceType": "GMObject"
             }
         },
         {
