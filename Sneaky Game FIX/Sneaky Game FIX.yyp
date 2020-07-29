@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "691d0970-2eec-4406-9924-43e5532215aa",
+            "Value": {
+                "id": "6b9d8f1c-cce1-4f93-a077-af5bb1975567",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "73d73e1a-e5f9-4277-901a-bbad5f1f364e",
             "Value": {
                 "id": "2df6286e-e6d6-4999-a635-3a95cd018c10",
@@ -324,22 +332,6 @@
                 "id": "a7c3b856-a109-4e8f-9a4c-1413201aea50",
                 "resourcePath": "tilesets\\tileset_outdoor_environments\\tileset_outdoor_environments.yy",
                 "resourceType": "GMTileSet"
-            }
-        },
-        {
-            "Key": "7c0aa2bb-958f-4b13-a46f-f744fafda32a",
-            "Value": {
-                "id": "eaef2b28-4945-423d-bcf2-acb7a27bd1ba",
-                "resourcePath": "paths\\path0\\path0.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
-            "Key": "7e02338f-f5c7-4f38-b669-3f45ed1b3a46",
-            "Value": {
-                "id": "af7bb55b-3b2c-46fb-8162-695818bc94da",
-                "resourcePath": "views\\7e02338f-f5c7-4f38-b669-3f45ed1b3a46.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -436,14 +428,6 @@
                 "id": "b0971f85-018d-4774-a099-04904d99df7a",
                 "resourcePath": "sprites\\sprite13\\sprite13.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a2a190c2-4688-4556-ab17-6bf3ecb86eb7",
-            "Value": {
-                "id": "205bf111-6d59-46b3-8f0c-f96a2af21df3",
-                "resourcePath": "rooms\\openworld\\openworld.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -559,11 +543,11 @@
             }
         },
         {
-            "Key": "e395a017-0b6f-4c50-bced-3a822e3d2af4",
+            "Key": "e5757796-c2ea-457b-a262-b56e6f44c6ff",
             "Value": {
-                "id": "43a86659-9d0e-470c-a2e9-ca083d3071f8",
-                "resourcePath": "objects\\obj_enemyHomeMadeAI\\obj_enemyHomeMadeAI.yy",
-                "resourceType": "GMObject"
+                "id": "328e7a60-b461-4c9f-b09d-a3436be1bc74",
+                "resourcePath": "paths\\CarPathType1\\CarPathType1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
