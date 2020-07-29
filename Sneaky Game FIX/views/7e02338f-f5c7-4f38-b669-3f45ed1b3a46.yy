@@ -8,7 +8,7 @@
         "faaccc7c-b9b9-4ce9-961f-4df7bd8e0340"
     ],
     "filterType": "GMSprite",
-    "folderName": "House Interiors Props",
+    "folderName": "Stealable items",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
