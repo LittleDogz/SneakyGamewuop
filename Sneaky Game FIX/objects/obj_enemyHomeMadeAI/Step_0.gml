@@ -19,7 +19,7 @@ if distance_to_point(obj_player.x,obj_player.y) < playerdir
    {
 	enemy_direction = point_direction(x,y,seenx,seeny);
 	path_end();
-	mp_potential_step(seenx, seeny, 3, obj_wall)
+	mp_potential_step(seenx, seeny, 3, false)
 	image_angle = enemy_direction;
 	seenx = obj_player.x;
     seeny = obj_player.y;
@@ -27,7 +27,7 @@ if distance_to_point(obj_player.x,obj_player.y) < playerdir
 } else if (path_index != path0) {
 	
 	enemy_direction = point_direction(x,y,wanderx,wandery);
-	mp_potential_step(start_x, start_y, 2, obj_wall);
+	mp_potential_step(start_x, start_y, 2, false);
 
 	if (abs(x - start_x) < 2 && abs(y - start_y) < 2) {
 		//path_start(path0, 1, path_action_restart, false)
