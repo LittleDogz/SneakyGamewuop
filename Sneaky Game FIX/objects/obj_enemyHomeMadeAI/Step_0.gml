@@ -30,7 +30,7 @@ if distance_to_point(obj_player.x,obj_player.y) < playerdir
 	mp_potential_step(start_x, start_y, 2, obj_wall);
 
 	if (abs(x - start_x) < 2 && abs(y - start_y) < 2) {
-		path_start(path0, 1, path_action_restart, false)
+		//path_start(path0, 1, path_action_restart, false)
 		image_angle = 0;
 	}
 
