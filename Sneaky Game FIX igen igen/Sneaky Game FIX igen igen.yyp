@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "5d4755fa-66a1-41a1-af7a-9ff5b0b0a0d5",
+            "Value": {
+                "id": "6f8600d8-777e-4b81-915d-496af890ce1c",
+                "resourcePath": "tilesets\\tileset_kitchen\\tileset_kitchen.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "5db3f0a0-2c04-4cd2-85ef-3e8e68213df9",
             "Value": {
                 "id": "e5461e2f-470d-45be-b416-20c2b1f88d09",
@@ -308,6 +316,14 @@
                 "id": "58f7bf0a-c8e5-4819-926e-3579b6f86927",
                 "resourcePath": "paths\\carpath1\\carpath1.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "6d34e4a4-0612-4a2e-a6e4-f1a0c7075f20",
+            "Value": {
+                "id": "87d097c4-1ba2-4609-80cd-2cb315114f3e",
+                "resourcePath": "sprites\\Spr_Tileset_kitchen\\Spr_Tileset_kitchen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
