@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "7c0aa2bb-958f-4b13-a46f-f744fafda32a",
+            "Value": {
+                "id": "eaef2b28-4945-423d-bcf2-acb7a27bd1ba",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "7e02338f-f5c7-4f38-b669-3f45ed1b3a46",
             "Value": {
                 "id": "af7bb55b-3b2c-46fb-8162-695818bc94da",
@@ -516,14 +524,6 @@
                 "id": "4906b622-cfc3-441b-859d-498672a9ea95",
                 "resourcePath": "objects\\obj_pcscreen\\obj_pcscreen.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "c9e58c3d-e8d5-42f7-b93a-acc8c621f3ef",
-            "Value": {
-                "id": "3f7745c0-3815-4dcb-8643-2694082ae2cf",
-                "resourcePath": "paths\\path0\\path0.yy",
-                "resourceType": "GMPath"
             }
         },
         {
