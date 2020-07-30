@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "3c1c7c4b-6fc6-4920-b613-2bccbf82946d",
+            "Value": {
+                "id": "8b274a88-d18d-4ea6-ba0b-4b7c41e7571a",
+                "resourcePath": "views\\3c1c7c4b-6fc6-4920-b613-2bccbf82946d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "405522be-114e-4237-a060-dfaa7ea4ae1c",
             "Value": {
                 "id": "ed29081f-8194-479c-8c10-a02863261672",
@@ -308,6 +316,22 @@
                 "id": "3e5e45f4-c590-459e-a322-87bb8f98eeb5",
                 "resourcePath": "sprites\\sprite20\\sprite20.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "640bc46f-58ce-4f2b-acbc-180b20b8aa9f",
+            "Value": {
+                "id": "e77f2dd9-c1f1-427d-8f6e-abd122bf6738",
+                "resourcePath": "sprites\\spr_textbox\\spr_textbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69457b6e-ae2a-4529-802c-ef28aedf7d34",
+            "Value": {
+                "id": "c994e3ca-767f-4856-97df-6807aa835387",
+                "resourcePath": "views\\69457b6e-ae2a-4529-802c-ef28aedf7d34.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -447,6 +471,14 @@
             }
         },
         {
+            "Key": "9fcc5d24-e9e4-4c23-8dab-f88f2a05d130",
+            "Value": {
+                "id": "8e02bcf4-9eb1-4d00-9946-3bb4bd715bbb",
+                "resourcePath": "sprites\\spr_shopkepper\\spr_shopkepper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a206ec80-a0d2-4026-9bf9-3162fc4a27a8",
             "Value": {
                 "id": "b0971f85-018d-4774-a099-04904d99df7a",
@@ -468,6 +500,14 @@
                 "id": "c5a41c02-4811-4884-9e45-77d6ac295235",
                 "resourcePath": "views\\a7ecce25-dbd1-4599-8d2e-87486eb46408.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a800af97-1be1-4a86-aced-c1d73ef71381",
+            "Value": {
+                "id": "ccfd24f1-1d4c-4ed6-a34e-5dce3262dbf2",
+                "resourcePath": "objects\\obj_shopkepper\\obj_shopkepper.yy",
+                "resourceType": "GMObject"
             }
         },
         {
