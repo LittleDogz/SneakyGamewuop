@@ -14,5 +14,8 @@ if(direction >= 226 && direction <= 305) {
 //Start new path when current path ends
 if (path_index == -1) {
     var my_path = irandom(2);
-    path_start(path[my_path], 1.5, path_action_reverse, true);
+    path_start(path[my_path], random_range(0.8,1.8), path_action_restart, true);
+}
+
+if distance_to_point(obj_player.x,obj_player.y) < NPCsightdist {
 }

@@ -1,4 +1,7 @@
 //runter
-path[0] = path0;
-path[1] = path1;
-path[2] = path2;
+path[0] = WalkerPath1;
+path[1] = WalkerPath2;
+path[2] = WalkerPath3;
+
+NPCsightdist = 80;
+

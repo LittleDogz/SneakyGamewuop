@@ -13,6 +13,6 @@ if(direction >= 226 && direction <= 305) {
 
 //Start new path when current path ends
 if (path_index == -1) {
-    var my_path = irandom(1);
+    var my_path = irandom(3);
     path_start(path[my_path], irandom_range(2,3), path_action_stop, true);
 }
