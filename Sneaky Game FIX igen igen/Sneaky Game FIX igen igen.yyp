@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1647926e-2443-45a0-a326-2e9ccc5f9692",
+            "Value": {
+                "id": "ab614f15-5145-47d8-a50b-3f563ba4f21d",
+                "resourcePath": "objects\\obj_shopskilt\\obj_shopskilt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a2e7784-f6f4-473a-a162-e79723de6155",
             "Value": {
                 "id": "01cbcc66-f269-420b-9bb5-5bf7c997d145",
@@ -519,6 +527,14 @@
             }
         },
         {
+            "Key": "aa8e4cfc-b067-4cb4-8fed-fbaab0601e71",
+            "Value": {
+                "id": "16aa8097-e86b-43e8-8d51-7dff32d5c040",
+                "resourcePath": "sprites\\sprite24\\sprite24.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "acc217d0-e620-4568-bfca-87f403f26138",
             "Value": {
                 "id": "deb4ccfd-8083-4e03-8de1-110e0f21b63c",
@@ -575,11 +591,27 @@
             }
         },
         {
+            "Key": "bbf3bad1-993f-4747-8ba3-d94ce86effc7",
+            "Value": {
+                "id": "ef21778b-c093-417f-93de-17b23bd871d3",
+                "resourcePath": "sprites\\spr_shopskilt\\spr_shopskilt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1166bdc-b47b-40f6-b494-dfd5d37f7a28",
             "Value": {
                 "id": "4906b622-cfc3-441b-859d-498672a9ea95",
                 "resourcePath": "objects\\obj_pcscreen\\obj_pcscreen.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c12605a9-a9dc-4d8e-b8b7-0059723361a5",
+            "Value": {
+                "id": "2254f29c-e132-45eb-b6dc-9a90689ef3a2",
+                "resourcePath": "sprites\\sprite22\\sprite22.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -716,6 +748,14 @@
                 "id": "8e62e8a0-ceba-4c38-91fe-2d95a430393a",
                 "resourcePath": "views\\f4eb0a13-f3aa-4dd5-855a-da46346fac61.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f683e192-14bb-4a86-a471-cb77aba2da06",
+            "Value": {
+                "id": "0caf2799-692b-46d2-b039-36e254dd2652",
+                "resourcePath": "objects\\obj_shopkepper\\obj_shopkepper.yy",
+                "resourceType": "GMObject"
             }
         },
         {

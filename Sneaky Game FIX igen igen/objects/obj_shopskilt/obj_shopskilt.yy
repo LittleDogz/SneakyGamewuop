@@ -1,8 +1,8 @@
 {
-    "id": "f683e192-14bb-4a86-a471-cb77aba2da06",
+    "id": "1647926e-2443-45a0-a326-2e9ccc5f9692",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_shopkepper",
+    "name": "obj_shopskilt",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c12605a9-a9dc-4d8e-b8b7-0059723361a5",
+    "spriteId": "bbf3bad1-993f-4747-8ba3-d94ce86effc7",
     "visible": true
 }
