@@ -87,3 +87,5 @@ if(keyboard_check(allmov)){
 
 //hustag disspear when enter
 Rooflayergogoaway();
+
+

@@ -19,5 +19,5 @@ if keyboard_check_pressed(vk_f4)
 //room goto map
 if keyboard_check_pressed(vk_f3)
    {
-	room_goto(openworld)
+	room_goto(room0)
    }

@@ -21,11 +21,3 @@ for (i = 0; i < inventoryendat; ++i){
 
 draw_rectangle(bbox_left + textborder, itemtopstart + (itemselected * 32), bbox_right - textborder, itemtopstart + (itemselected * 32) + 32, true);
 
-draw_sprite(spr_ItemBox, 0, bbox_right + sprite_get_xoffset(spr_ItemBox), room_height - sprite_get_yoffset(spr_ItemBox));
-
-if(isempty)
-	draw_text_ext(bbox_right + 50, room_height - sprite_get_yoffset(spr_ItemBox) - 100, emptymessage, 32, sprite_get_width(spr_ItemBox) - textborder);
-else
-	draw_text_ext(bbox_right + 15, room_height - sprite_get_yoffset(spr_ItemBox) - 100, ds_grid_get(myitems, 2, itemselected), 32, sprite_get_width(spr_ItemBox) - textborder);
-
-
