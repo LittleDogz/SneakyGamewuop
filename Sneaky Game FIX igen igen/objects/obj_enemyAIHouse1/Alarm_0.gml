@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "OpenWorld_player_npc_colisionworld", obj_alarm);

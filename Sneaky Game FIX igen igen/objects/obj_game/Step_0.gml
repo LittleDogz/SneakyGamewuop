@@ -1,7 +1,7 @@
 //Goto Main menu
 if keyboard_check_pressed(vk_escape)
    {
-	game_end();
+	room_goto(MainMenu);
    }
 // Fullscreen on and off
 if keyboard_check_pressed(vk_f4)
@@ -16,8 +16,3 @@ if keyboard_check_pressed(vk_f4)
       }
    }
    
-//room goto map
-if keyboard_check_pressed(vk_f3)
-   {
-	room_goto(room0)
-   }
