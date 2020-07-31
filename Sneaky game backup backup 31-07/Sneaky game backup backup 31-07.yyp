@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "648a6d7b-8b6c-4a8f-ad77-ed19ee2289f5",
+            "Value": {
+                "id": "ea0f71bf-b4a4-4fbc-b4fe-fc7b5dda55c0",
+                "resourcePath": "sounds\\sound_keyboard\\sound_keyboard.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "68714888-29ab-49fb-8c5c-47a954954869",
             "Value": {
                 "id": "da1bf2d6-c595-4f85-8859-6a4b56093590",
