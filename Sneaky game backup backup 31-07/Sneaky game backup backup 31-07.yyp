@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "84b48229-0699-44ab-afd0-4df9a3b64f09",
+            "Value": {
+                "id": "655b622a-98f6-4ee6-a7c4-d098a13176af",
+                "resourcePath": "sprites\\spr_keyboad\\spr_keyboad.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84d50c64-02ab-43ce-bd07-f1c85739a54e",
             "Value": {
                 "id": "f8d61673-6542-45df-a26e-d41b28751019",
@@ -855,6 +863,14 @@
             }
         },
         {
+            "Key": "ab3258ae-ce2e-4dfb-9526-774f533592cf",
+            "Value": {
+                "id": "3051a8a7-a6c4-4810-84a1-e195be353ef2",
+                "resourcePath": "rooms\\How_to_play\\How_to_play.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ab6c2b43-c0a1-4909-8e22-f730651920ab",
             "Value": {
                 "id": "cd35f50c-4d77-4c1c-82a3-0f618b72f265",
@@ -916,6 +932,14 @@
                 "id": "95b60762-9fb5-47f7-b497-0fe0b807cb69",
                 "resourcePath": "tilesets\\tile_col\\tile_col.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "b553620b-71e8-4a00-ace8-805feda2f1d9",
+            "Value": {
+                "id": "c1c86038-f4f7-4349-914c-741bc8287a5f",
+                "resourcePath": "objects\\obj_keyboad\\obj_keyboad.yy",
+                "resourceType": "GMObject"
             }
         },
         {
