@@ -15,10 +15,10 @@
         "93c4bae0-34ba-4f10-92b7-9cf8927ca95f",
         "c02b37ed-c4c6-4917-9cac-9994eacc1b8a",
         "e70fb815-6f22-4cf8-a3fa-e66c136c1185",
+        "2712ffcc-df85-43ef-893b-f2fbf3b4e5f1",
         "9edbefb6-e30d-4709-9bc8-1441a3d38f9e",
         "29d2e615-b691-4c6c-91d8-3e16d6e77df9",
-        "4cf3311b-6f14-4336-bd5d-ed444c26314b",
-        "b9cbccd2-7ce2-4839-8897-1c8d40184414"
+        "4cf3311b-6f14-4336-bd5d-ed444c26314b"
     ],
     "filterType": "GMObject",
     "folderName": "furniture",

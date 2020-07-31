@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMObject",
-    "folderName": "group0",
+    "folderName": "stealable items",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
