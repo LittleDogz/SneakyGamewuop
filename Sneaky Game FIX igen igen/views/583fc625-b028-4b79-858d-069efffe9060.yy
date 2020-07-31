@@ -5,7 +5,12 @@
     "name": "583fc625-b028-4b79-858d-069efffe9060",
     "children": [
         "c1166bdc-b47b-40f6-b494-dfd5d37f7a28",
-        "ed43d4de-6d67-4863-bf85-5c8e9085e719"
+        "ed43d4de-6d67-4863-bf85-5c8e9085e719",
+        "9650a4e9-cd04-434c-8d7f-45636fbbdbe3",
+        "ad3b3d1e-d13a-404f-81fb-b289f00ae274",
+        "e4eafef9-1c36-4c29-a4a1-f07a1dff2528",
+        "935a8329-bf63-4e6f-bf79-a2a581badca7",
+        "6dec3a46-2c06-4176-8f0c-06c085bfd79d"
     ],
     "filterType": "GMObject",
     "folderName": "House Interiors Props",
