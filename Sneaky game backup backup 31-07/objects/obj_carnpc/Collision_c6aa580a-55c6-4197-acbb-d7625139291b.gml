@@ -1,2 +1,2 @@
 //genstart
-room_goto(openworld)
+	room_goto(DeadScreenCAR)

@@ -1,3 +1,5 @@
+Syn = 70;
+
 //runter
 path[0] = carpath0;
 path[1] = carpath1;

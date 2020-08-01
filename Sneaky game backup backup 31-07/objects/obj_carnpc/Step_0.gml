@@ -16,3 +16,8 @@ if (path_index == -1) {
     var my_path = irandom(3);
     path_start(path[my_path], irandom_range(2,3), path_action_stop, true);
 }
+
+//Holder øje med player
+if distance_to_point(obj_player.x,obj_player.y) < Syn {
+}
+
