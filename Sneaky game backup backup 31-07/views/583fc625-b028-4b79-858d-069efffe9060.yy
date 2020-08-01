@@ -14,7 +14,8 @@
         "32d02d2b-6278-4227-b12a-35454d7f85e4",
         "2dd0d534-c9cc-4b69-b88b-397767dce698",
         "d730fe48-aa3a-4282-8009-739e252bf742",
-        "a7555254-2ca2-45d6-96d6-13d6c951f14d"
+        "a7555254-2ca2-45d6-96d6-13d6c951f14d",
+        "90b7baed-4c7f-43c6-a1b4-c50e69a0fca4"
     ],
     "filterType": "GMObject",
     "folderName": "House Interiors Props",
