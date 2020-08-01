@@ -1,20 +1,20 @@
 
 
 
-#region Direction den vej den går
-if(direction >= 306 or direction <= 45) {
-	image_angle = 0;
-}
-if(direction >= 46 and direction <= 135) {
-	image_angle = 90;
-}
-if(direction >= 136 && direction <= 225) {
-	image_angle = 180;
-}
-if(direction >= 226 && direction <= 305) {
-	image_angle = 270;
-}
-#endregion
+//#region Direction den vej den går
+//if(direction >= 306 or direction <= 45) {
+//	image_angle = 0;
+//}
+//if(direction >= 46 and direction <= 135) {
+//	image_angle = 90;
+//}
+//if(direction >= 136 && direction <= 225) {
+//	image_angle = 180;
+//}
+//if(direction >= 226 && direction <= 305) {
+//	image_angle = 270;
+//}
+//#endregion
 
 #region Sneakmode
 if (global.sneakmode = true)

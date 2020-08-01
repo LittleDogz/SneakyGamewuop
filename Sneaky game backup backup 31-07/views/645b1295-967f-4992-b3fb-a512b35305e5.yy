@@ -7,7 +7,8 @@
         "1b1a43c2-2e1f-4446-82ee-b90ca927dfeb",
         "d3747130-cb4d-4a20-8d32-46dbcd05e3b3",
         "9b5e9e29-29a7-4191-b477-778c8c4304ee",
-        "3a618b60-7398-4185-910c-655216f39ce1"
+        "3a618b60-7398-4185-910c-655216f39ce1",
+        "d6367a69-f9cf-4b88-bdcd-ae950cc0a116"
     ],
     "filterType": "GMSprite",
     "folderName": "Deadscreen",
